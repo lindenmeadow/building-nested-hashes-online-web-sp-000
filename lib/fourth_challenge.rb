@@ -12,7 +12,7 @@ def fourth_challenge
           :attitude => "worried"
         }
       ]
-   }, 
+   },
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
       :matriarch => {name: "Lady Capulet", age: "51"},
@@ -23,6 +23,6 @@ def fourth_challenge
    }
 }
 
-  
+
 
 end
